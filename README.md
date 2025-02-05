@@ -13,3 +13,7 @@ What I find particularly compelling about this article is its discussion of real
 ## Daniel Brito Comment
 
 I think your comment and article choice are interesting because it discusses an often overlooked aspect of software. Especially with the rise of AI, people are worried about the ethics behind the development and what the future holds because of it.
+
+## Jin Lee comment
+
+I agree with your comment on the importance of ethical considerations when developing softwares. Especially if you are working under a larger organization or certain features, it might be unclear to forcast the impact of these commits. Really interesting document on different code of ethics. 
